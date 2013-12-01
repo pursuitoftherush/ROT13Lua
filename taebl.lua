@@ -1,3 +1,8 @@
+--[[ //////////////
+--// taebl.lua
+--// ROT13 Ceasarian Cipher in Lua
+--////////////////]] --
+
 taebl = {}
 taebl[1] = "a"
 taebl["a"] = 1
